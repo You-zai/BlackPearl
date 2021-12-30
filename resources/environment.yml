@@ -1,0 +1,10 @@
+name: Black Pearl
+channels:
+  - defaults
+dependencies:
+  - networkx=2.5
+  - tqdm=4.56.0
+  - PyWavelets=1.1.1
+  - pip:
+    - PySide6==6.2.1
+#prefix: C:\Users\Yashaswi\anaconda3\envs\sorter
