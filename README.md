@@ -99,6 +99,7 @@ Tabel of Contents
 
 * 采用pHash增强版的低频感知哈希算法，避免伽马校正或颜色直方图被调整带来的影响。获得图片指纹后利用Hamming Distance计算两张图片的相似度。
 <div align=center><img width="400" height="280" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%876.png"/></div>
+
 #### 详细原理如下：
 * 将图片缩小为32×32  
   
