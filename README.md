@@ -26,12 +26,16 @@ Tabel of Contents
 功能介绍
 --------
 ### BlackPearl是一款面向设计师群体，用于管理图片的app，具有如下功能。
+<div align=center><img width="400" height="300" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%878.png"/></div>
+
 #### 主体功能
+
 * **相似查找：** 对相册中图片进行相似查找，搜索出的相似照片可以选择删除/不删除
    
 * **人物分类：** 对相册中的图片，按照主体人物不同进行分类，获得以同一人物为主体的多个相册    
 
 * **动物分类：** 对相册中的图片，按照物品不同进行分类，获得以同一物体为主体的多个相册
+<div align=center><img width="400" height="280" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%877.png"/></div>
 
 #### 其他功能  
 *  **自定义相册：** 新建、重命名、删除相册，在相册中添加图片；退出app后图片依然保留  
@@ -117,12 +121,14 @@ Tabel of Contents
 * BlackPearl的物品分类功能 以ResNet34残差神经网络为基础，并在网络顶端添加softmax层，获得11维向量，对应图片为11个动物的可能性。
 
 ### 三、前端
-<div align=center><img width="400" height="300" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%872.png"/></div>
+<div align=center><img width="80" height="60" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%872.png"/></div>
+
 * BlackPearl的前端采用Qt框架
   
 * Qt是一款跨平台C++图形用户界面应用程序开发框架，可用于GUI程序的开发，也可用于非GUI程序的开发，如控制台、操作系统等。
 
 * 此外，Qt下含有大型集成开发环境Qt Creator，为GUI设计提供了便利；Qt Designer中可以拖动组件，进行空间布局，具有良好的可视化，并且能够利用UI文件和Python文件的相互转换，协助前端开发。
+<div align=center><img width="400" height="270" src="https://github.com/You-zai/-/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202021-12-30%20144434.png"/></div>
 
 致谢
 ------
