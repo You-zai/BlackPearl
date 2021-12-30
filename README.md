@@ -82,7 +82,8 @@ Tabel of Contents
 * 基于C++开源库dlib中的深度学习模型
   
 * LFW测试准确率达99.38% 
-  
+<div align=center><img width="400" height="280" src="https://github.com/You-zai/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20211230145402.png  "/></div>
+
 #### 算法流程：
 * 加载图片，转化为RGB三通道格式
   
@@ -97,7 +98,7 @@ Tabel of Contents
 #### （二）相似查找
 
 * 采用pHash增强版的低频感知哈希算法，避免伽马校正或颜色直方图被调整带来的影响。获得图片指纹后利用Hamming Distance计算两张图片的相似度。
-
+<div align=center><img width="400" height="280" src="https://github.com/You-zai/-/blob/main/%E5%9B%BE%E7%89%876.png"/></div>
 #### 详细原理如下：
 * 将图片缩小为32×32  
   
