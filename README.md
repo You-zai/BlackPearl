@@ -19,7 +19,6 @@
 
 ### <div align='center' ><font size='70'>面向设计师的相册整理app——BlackPearl</font></div>   
        
-<div align='center' ><font size='70'>代码部分由J.C.Maxwell完成，一船江月完成UI设计部分，游哉把控整体方向和进度。</font></div>
 　　
   
     
